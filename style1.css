@@ -1,0 +1,48 @@
+#center {
+  display: inline-block;
+  padding-top: 20px;
+  font-size: 18pt;
+  color: #64ffda;
+  width: 40%;
+}
+
+#hobby {
+  clear: both;
+}
+
+.img1 {
+  border-radius: 100px 100px 100px 100px;
+  border: 3px dashed blanchedalmond;
+}
+
+#quot {
+  font-size: 20pt;
+}
+
+#left {
+  padding-top: 55px;
+  font-size: 14pt;
+  color: orange;
+  float: left;
+  width: 30%;
+}
+
+#right {
+  border-radius: 50%;
+  padding-top: 12px;
+  font-size: 14pt;
+  color: orange;
+  float: right;
+  width: 30%;
+}
+
+#img11 {
+  border-radius: 50%;
+}
+
+#btn {
+  color: orange;
+  float: right;
+  clear: both;
+  padding-top: 40cm;
+}
