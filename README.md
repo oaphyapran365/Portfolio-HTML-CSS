@@ -1,2 +1,2 @@
-# Portfolio-html-css-
+# Portfolio-HTML-CSS
 Web Engineering task
